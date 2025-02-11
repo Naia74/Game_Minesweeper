@@ -43,6 +43,7 @@ namespace Game_Minesweeper
 
         private void btnAbout_Click(object sender, RoutedEventArgs e)
         {
+            //about info for button
             MessageBox.Show("Developers: Justin Borchert, Ilhan Hashi, and Nai'a Suda\nVersion: 1.0\nDate: 2/10/25");
         }
     }
